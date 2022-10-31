@@ -9,3 +9,4 @@ Now What is new features??
 Then this will increase A and B value till infinte time.
 And to overcome this problem we have used a cycle detection algo on directed graph.
 And to easily detect that cycle we have implement our new feature which will help detect to detect the cycle by showing whole cycle with colorful background .
+//changed by priyanshu
